@@ -1,1 +1,1 @@
-# Tarea2
+# Investigacion Cuda Cores,Threads,Blocks and Grids
